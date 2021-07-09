@@ -7,5 +7,5 @@
 
 - Mobile Application Developer
 - Developing apps using React and React Native
-- [Linkedin](https://www.linkedin.com/in/chamaldezilva/)
+- Find me on [Linkedin](https://www.linkedin.com/in/chamaldezilva/)
 

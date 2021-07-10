@@ -22,8 +22,8 @@ I'm Chamal from Sri Lanka, and I develop apps for both web and mobile. I really 
 * 🎨 UI/UX
 
 ## Find me on
-[Linkedin](https://www.linkedin.com/in/chamaldezilva/)
-[https://chamal.me/](https://chamal.me/)
+- [Linkedin](https://www.linkedin.com/in/chamaldezilva/)
+- [https://chamal.me/](https://chamal.me/)
 
 ## Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chamaldesilva&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=chamaldesilva&count_private=true&show_icons=true&hide_title=true&hide=stars" />
